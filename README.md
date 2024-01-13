@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nacruw
-- 👀 I’m interested in ass
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in bocchi
+- 🌱 I’m currently learning bocchi
+- 💞️ I’m looking to collaborate on bocchi
+- 📫 How to reach me bocchi
 
 <!---
 Nacruw/Nacruw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
