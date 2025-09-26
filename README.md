@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ![Shaw](https://i.redd.it/j3ys4sgne4fb1.jpg)
 # 💫 About Me:
 ### 2D Game dev / Front-end dev
-I'm french btw.
+French btw.
 
 
 ## 🌐 Socials:
