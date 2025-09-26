@@ -3,7 +3,7 @@ Nacruw/Nacruw is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
  
-![Shaw]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCD2vxmnzUVvfClrCmMq17ztUYlCaqRgrNBA&s](https://i.redd.it/j3ys4sgne4fb1.jpg))
+![Shaw](https://i.redd.it/j3ys4sgne4fb1.jpg)
 # 💫 About Me:
 ⚡ Fun fact<br>I'm french
 
