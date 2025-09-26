@@ -2,7 +2,8 @@
 Nacruw/Nacruw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+ 
+![Shaw](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCD2vxmnzUVvfClrCmMq17ztUYlCaqRgrNBA&s)
 # 💫 About Me:
 ⚡ Fun fact<br>I'm french
 
